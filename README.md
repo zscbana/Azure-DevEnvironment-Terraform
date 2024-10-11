@@ -8,7 +8,6 @@ This project is a hands-on learning experience with Terraform, where I will impl
 
 - Understand the fundamentals of Terraform.
 - Deploy Azure resources using Terraform.
-- Gain experience with Visual Studio Code for development.
 - Set up and configure an Azure VM that can be accessed via SSH.
 
 ## Course Details
@@ -36,27 +35,12 @@ This project is based on a tutorial by Derek Morgan. You can find more of his co
 13. **A Key Pair**
 14. **Custom Data**
 15. **SSH Config Scripts**
-16. **The Provisioner**
-17. **Data Sources**
-18. **Outputs**
-19. **Variables**
-20. **Variable Precedence**
-21. **Conditionals**
 
 ## Getting Started
 
 1. **Prerequisites:**
-   - Install [Visual Studio Code](https://code.visualstudio.com/).
    - Install [Terraform](https://www.terraform.io/downloads.html).
    - Set up an Azure account if you don't have one.
-
-2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-directory
-    ```
-
-3. **Follow Along with the Tutorial**: As I implement each step, I'll update this README with insights, challenges faced, and solutions found.
 
 ## Conclusion
 By completing this project, I aim to strengthen my understanding of Terraform and Azure, making me better prepared for future projects in cloud infrastructure.
